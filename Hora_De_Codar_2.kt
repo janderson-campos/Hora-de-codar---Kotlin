@@ -1,5 +1,3 @@
-import kotlin.math.PI
-
 fun main() {
 
     Atividade_1()
