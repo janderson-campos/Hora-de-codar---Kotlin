@@ -1,5 +1,5 @@
 fun main() {
-    //Atividade1()
+    Atividade1()
     Atividade2()
     Atividade3()
     Atividade4()
